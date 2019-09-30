@@ -1,0 +1,2 @@
+# practicegit
+Started exploring Git
